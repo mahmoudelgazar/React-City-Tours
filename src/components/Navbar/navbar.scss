@@ -1,0 +1,24 @@
+@import "../../index.scss";
+.navbar {
+  background-color: $maincolorblack;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 160px auto;
+  grid-gap: 35px;
+  padding: 15px;
+  ul {
+    list-style: none;
+    li {
+      display: inline-block;
+      a {
+        color: $maincolorwhite;
+        margin: 0 15px;
+        text-decoration: none;
+        &.active,
+        &:hover {
+          color: $maincolorgreen;
+        }
+      }
+    }
+  }
+}

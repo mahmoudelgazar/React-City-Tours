@@ -5,7 +5,7 @@ export const tourData = [
     img: "./img/newyork.jpeg",
     name: "new york bridge tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const tourData = [
     img: "./img/paris.jpeg",
     name: "paris lights tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const tourData = [
     img: "./img/london.jpeg",
     name: "london royal palace tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const tourData = [
     img: "./img/tokyo.jpeg",
     name: "tokyo sushi tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
-  }
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi",
+  },
 ];

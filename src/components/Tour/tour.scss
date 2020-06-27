@@ -1,0 +1,33 @@
+.tour-block {
+  background-color: #fff;
+  position: relative;
+  .tour-block-img {
+    position: relative;
+    i {
+      position: absolute;
+      top: 15px;
+      left: 15px;
+      cursor: pointer;
+      color: #fff;
+    }
+    .content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      h2,
+      h3 {
+        color: #fff;
+        text-align: center;
+        margin-bottom: 15px;
+        text-shadow: 0 1px 2px #000;
+      }
+    }
+  }
+  img {
+    width: 100%;
+  }
+  .tour-block-content {
+    padding: 15px;
+  }
+}
